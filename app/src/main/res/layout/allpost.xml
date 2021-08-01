@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="5dp"
+    android:elevation="5dp"
+    android:layout_margin="15dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEB3B"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/all_post_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="Title"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#050505" />
+
+        <TextView
+            android:id="@+id/all_post_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="31 July 2018"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/all_post_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:maxLines="3"
+            android:padding="5dp"
+            android:shadowColor="#0B0B0B"
+            android:text="Description"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="#040303" />
+
+        <TextView
+            android:id="@+id/all_post_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:maxLines="3"
+            android:padding="5dp"
+            android:shadowColor="#FFFFFF"
+            android:text="Time"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="#0B0A0A" />
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

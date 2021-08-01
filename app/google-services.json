@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114981746120",
+    "project_id": "webinarmeeting123",
+    "storage_bucket": "webinarmeeting123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114981746120:android:9feaed5841d1afb4a47cfd",
+        "android_client_info": {
+          "package_name": "com.example.webinarmeeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114981746120-e2rjgog4gajaots2bo3otq9qmu8lstqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webinarmeeting",
+            "certificate_hash": "8fa68b408021f72576469ab10570075276ed4948"
+          }
+        },
+        {
+          "client_id": "114981746120-m3k7t3maqr5vpd6dqqje1ikgvcc3hh8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5T2gbizM5lp0FflQHLt2ykucaemNEpno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114981746120-m3k7t3maqr5vpd6dqqje1ikgvcc3hh8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
