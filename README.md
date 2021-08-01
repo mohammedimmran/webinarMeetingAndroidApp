@@ -1,6 +1,6 @@
 # webinarMeetingAndroidApp
 
-![Login:](1.PNG)
+![Alt Login:](1.PNG)
 
 
 ![Registration:](2.PNG)
