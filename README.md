@@ -1,3 +1,3 @@
 # webinarMeetingAndroidApp
-![](1.jpg)
+![](1.PNG)
 
